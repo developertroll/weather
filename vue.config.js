@@ -3,6 +3,6 @@ module.exports = defineConfig({
   transpileDependencies: true,
 });
 module.exports = {
-  publicPath: process.env.NODE_ENV === "production" ? "/vue-weather-app/" : "/",
+  publicPath: process.env.NODE_ENV === "production" ? "/weather/" : "/",
   outputDir: "docs",
 };
