@@ -20,7 +20,7 @@ export default {
       cities: [
         { code: "Seoul", name: "서울", selected: false },
         { code: "Tokyo", name: "도쿄", selected: false },
-        { code: "NewYork", name: "뉴욕", selected: false },
+        { code: "Dubai", name: "두바이", selected: false },
         { code: "Beijing", name: "베이징", selected: false },
         { code: "Sydney", name: "시드니", selected: false },
         { code: "Paris", name: "파리", selected: false },
